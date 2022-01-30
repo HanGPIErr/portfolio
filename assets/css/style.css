@@ -573,6 +573,8 @@ body.light-theme
     grid-template-columns: repeat(2, 1fr);
     gap: 1.5rem;
     padding-top: 1rem;
+    align-items: center;
+    justify-content: center;
 }
 
 .services__card
@@ -580,6 +582,7 @@ body.light-theme
     background-color: var(--container-color);
     padding: 3rem 1.5rem 1.5rem;
     border-radius: 1rem;
+    
 }
 
 .services__title
